@@ -4,10 +4,17 @@ azon - fois
 azon atòn - trois fois
 azon monkpán - plein de fois
 
+sika - or (métal)
+
+vó, alo, bo, xoun, vó, ka, d.ó - mais, ou, et, donc, or, ni, car
+syn nou gbla syn mí á_n xóvè ka syn mí á_n - je n'ai ni faim ni soif
+
 azùí - lièvre
 xla - hyène
 
 lôlô á - même pas
+
+gbôdjè - la respiration
 
 yé non xa wéman kpô gégé, yé ká sé wéman á_n - ils lisent beaucoup de livres,
     mais ils ne connaissent pas les livres
@@ -32,10 +39,10 @@ xuénouxó tché zo mon víííííín bo yì djè azùí kpodo xla kpo djì
 
 
 azui\ d.ò zounkan mèn - le lièvre était dans la brousse
-é d.ibla kou xó vè/ kou - il a failli mourir de faim
+é d.ibla kou xó vè/ - il a failli mourir de faim
 é djidjan'yì bo gan djè akpassatín daxo d.é ou - il s'est adossé contre un grand
     baobab
-é non mon zaan, bo noukountô/non d.é lè wá d.ò atin ô_n kpa - il est un peu resté
+é non mon zaan ô/, bô noukountô/non d.é lè wá atin ô_n kpa - il est un peu resté
     comme ca, et des aveugles sont venus près de l'arbre
 
 men daxo bì é d.ò yé mèn ô_n, é d.ô\ - le plus vieux d'entre eux
@@ -43,7 +50,7 @@ men daxo bì é d.ò yé mèn ô_n, é d.ô\ - le plus vieux d'entre eux
     qqch ?
 yé yí gbé bo d.ô\ "éwoo, men dé bou d.ò fi á" - ils lui ont répondu "non, il
     n'y a personne ici"
-é zé kpó tòn bo gba d.ò atin ô_n ou azon aton - il a pris son baton et a tapé
+é zé kpó tòn bo xó d.ò atin ô_n ou azon aton - il a pris son baton et a tapé
     sur l'arbre trois fois
 
 
@@ -87,17 +94,50 @@ d.ò akpassatín ô_n syn xómèn ô_n, azui\ bló nou d.é noukountô/non lè n
     bì - dans le ventre de l'arbre, le lièvre faisait toutes les choses que
     faisaient les aveugles
 
-azan d.okpó d.okpó atòn, é d.ou nou xá yé, é nou syn xá yé, é dámlòn xa yé - 
+nou azan d.okpó d.okpó atòn, é d.ou nou xá yé, é nou syn xá yé, é dámlòn xa yé -
     pendant ces trois jours, il a mangé avec eux, bu avec eux, dormi avec eux
 
 é dan ou á, é bló zingidí dé bou á - il n'a pas remué son corps, il n'a pas fait
     de bruit du tout
 
-xuénou xuénou ô_n, noukountô/non lè syn gán non d.ô\ "mí non té\ ! n'd.i d.ô\
-    men d.é vo do mìín mèn" - de temps en temps, le chef des aveugles disait 
+xuénou xuénou ô, noukountô/non lè syn gán ô non d.ô\ "mí non té\ ! n'd.i d.ô\
+    men d.é vo d.ò mìín mèn" - de temps en temps, le chef des aveugles disait 
     "arretez vous ! je crois qu'un étranger est parmis nous"
 
-xué é nèn ô_n nou ô_n, azui\ non gbôdjè lôlô á - à ces moments là, le lièvre ne
-    respirait meme pas
+xué nèn nou ô_n, azui\ non d.ó gbôdjè tòn té\ - à ces moments là, le lièvre arretait
+    de respirer
 
+azàn atòn gô ô goudo ô, men bì go syn atín ô_n syn xó mèn - après le troisième
+    jour, tout le monde est sorti de l'arbre
 
+azui\ mòn lànmèn bo dó djou/ - le lièvre avait avait de la corpulance et est
+    devenu gras
+
+é xué glé tòn tá, bo tchôbô é ná djè xué tòn gbé ô, bouki yrrô è - il est rentré
+    à son village, et avant d'arriver dans sa maison, la hyène l'a interpelé
+
+bouki d.ô\ n(ou) i d.ô\ : "nèn a bló gbon bo dó djou lé ?" - la hyène lui dit : "
+    comment as tu fait pour être gros comme ça ?
+
+azui\ sè kpó è dè/dè/ bô tinmen nou lè bì men n(ou) i - le lièvre s'est approché doucement 
+    (discrètement) et lui a expliqué toutes les choses
+
+é ví ví nou bouki dé sou, bo é dò wézoun bo yì atín ô_n kpa - la hyène était très
+    contente, et elle a couru près de l'arbre
+
+azui\ é yèè yì xué tòn gbé - le lièvre quant à lui est rentré chez lui
+
+d.i azui\ d.oxoun ô_n, é non té kpon noukontô/non lè/ - comme le lièvre, elle a attendu les aveugles
+
+d.é yé wá ô, é byó atín ô_n syn xómèn xa yé - et est rentrée dans l'arbre avec
+    eux
+
+bouki ô xlonon ka wè - mais la hyène était stupide
+
+xué nou noukountô/non lè syn gàn d.ô\ yé ni non té ô - quand le chef des
+    aveugles leur dit de s'arrêter
+
+bouki kpó d.ò nou d.ou wè - bouki a continué à mangé
+
+yé zé kpó yétòn trróló bo xó bouki táoun - ils ont tout de suite pris leurs
+    batons et on frappé la hyène sérieusement
